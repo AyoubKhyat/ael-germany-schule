@@ -3,5 +3,5 @@
 <rect y="0" width="32" height="10.67" rx="6" fill="#000"/>
 <rect y="10.67" width="32" height="10.67" fill="#DD0000"/>
 <rect y="21.33" width="32" height="10.67" rx="6" fill="#FFCC00"/>
-<text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-weight="900" font-size="18" stroke="#000" stroke-width="1">AH</text>
+<text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-weight="900" font-size="14" stroke="#000" stroke-width="1">AEL</text>
 </svg>
